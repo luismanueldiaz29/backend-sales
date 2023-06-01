@@ -1,4 +1,4 @@
-package com.backend.sales.backendsales;
+package com.backend.sales;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
